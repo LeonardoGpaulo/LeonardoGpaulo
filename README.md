@@ -1,16 +1,20 @@
-## Hi there 👋
+# este sou eu
 
-<!--
-**LeonardoGpaulo/LeonardoGpaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o leonardo, <ins>aluno da formação profissional</ins>, *casado com a farra* e pai do rick, davi e pietro. Gosto de ~~carnaval~~.
 
-Here are some ideas to get you started:
+## Formação acadêmica
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+estou me formando em tecnologia em informatica para negócios.
+
+Posso escrever um pequeno trecho de código como `git status` ou então trechos maiores como o abaixo:
+
+```javascript
+const constante = 0; //constante precisa ser inicializada
+```
+
+```python
+def ola_mundo(){
+ print('olá, mundo!')
+}
+```
+
