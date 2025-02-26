@@ -1,6 +1,6 @@
 # este sou eu
 
-Sou o leonardo, <ins>aluno da formação profissional</ins>, 
+Sou o leonardo, <ins>aluno da formação profissional</ins> de TI.
 
 ## Formação acadêmica
 
