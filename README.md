@@ -1,6 +1,6 @@
 # este sou eu
 
-Sou o leonardo, <ins>aluno da formação profissional</ins>, *casado com a farra* e pai do rick, davi e pietro. Gosto de ~~carnaval~~.
+Sou o leonardo, <ins>aluno da formação profissional</ins>, 
 
 ## Formação acadêmica
 
