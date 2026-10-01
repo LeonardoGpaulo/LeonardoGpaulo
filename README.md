@@ -35,7 +35,7 @@ Gosto de conhecer assuntos diferentes, explorar novas ideias e, principalmente, 
 <br>
 <br/>
 <br>
-
+<br/>
 
 ## 🧑🏻‍💻 Linguagens e Tecnologias:
 <br/>
@@ -97,11 +97,7 @@ Gosto de conhecer assuntos diferentes, explorar novas ideias e, principalmente, 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
 
-
 <br/>
-<br/>
-
-
 
 ## 🌐 Social
 
