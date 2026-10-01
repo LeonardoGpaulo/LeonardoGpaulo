@@ -23,7 +23,7 @@ Gosto de conhecer assuntos diferentes, explorar novas ideias e, principalmente, 
 <img 
       align="right" 
       alt="GitHub Stats" 
-      height="150" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogpaulo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
@@ -126,6 +126,7 @@ Gosto de conhecer assuntos diferentes, explorar novas ideias e, principalmente, 
           alt="TikTok"
           title="Meu TikTok"
           src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+      <br/>
       <img 
           alt="GMAIL"
           title="Meu GMAIL" 
