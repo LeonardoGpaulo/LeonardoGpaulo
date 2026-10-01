@@ -13,7 +13,7 @@ Gosto de conhecer assuntos diferentes, explorar novas ideias e, principalmente, 
 
 <p>
   <img 
-    align="center" 
+    align="left" 
     alt="GitHub Stats" 
     height="170" 
     style="padding-right: 10px;" 
@@ -21,7 +21,7 @@ Gosto de conhecer assuntos diferentes, explorar novas ideias e, principalmente, 
   />
 
 <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardogpaulo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
@@ -38,12 +38,13 @@ Gosto de conhecer assuntos diferentes, explorar novas ideias e, principalmente, 
 
 
 ## 🧑🏻‍💻 Linguagens e Tecnologias:
+<br/>
 
 <img 
     align="center" 
     alt="HTML"
     title="HTML" 
-    width="70px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -51,7 +52,7 @@ Gosto de conhecer assuntos diferentes, explorar novas ideias e, principalmente, 
     align="center" 
     alt="CSS" 
     title="CSS"
-    width="70px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -59,7 +60,7 @@ Gosto de conhecer assuntos diferentes, explorar novas ideias e, principalmente, 
     align="center" 
     alt="JavaScript" 
     title="JavaScript"
-    width="70px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -67,7 +68,7 @@ Gosto de conhecer assuntos diferentes, explorar novas ideias e, principalmente, 
     align="center" 
     alt="React"
     title="React" 
-    width="70px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
@@ -75,7 +76,7 @@ Gosto de conhecer assuntos diferentes, explorar novas ideias e, principalmente, 
     align="center" 
     alt="Git" 
     title="Git"
-    width="70px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -83,7 +84,7 @@ Gosto de conhecer assuntos diferentes, explorar novas ideias e, principalmente, 
     align="center" 
     alt="Python" 
     title="Python"
-    width="70px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -91,7 +92,7 @@ Gosto de conhecer assuntos diferentes, explorar novas ideias e, principalmente, 
     align="center" 
     alt="kotlin" 
     title="Kotlin"
-    width="70px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
 />
